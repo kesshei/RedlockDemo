@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedlockDemo", "RedlockDemo\RedlockDemo.csproj", "{7364B5B6-ED99-41F7-9FE1-029B522E954E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MysqlLockDemo", "MysqlLockDemo\MysqlLockDemo.csproj", "{3F11CD92-EF59-4614-9EE9-5183D5E7DA50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7364B5B6-ED99-41F7-9FE1-029B522E954E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7364B5B6-ED99-41F7-9FE1-029B522E954E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7364B5B6-ED99-41F7-9FE1-029B522E954E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7364B5B6-ED99-41F7-9FE1-029B522E954E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F11CD92-EF59-4614-9EE9-5183D5E7DA50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F11CD92-EF59-4614-9EE9-5183D5E7DA50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F11CD92-EF59-4614-9EE9-5183D5E7DA50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F11CD92-EF59-4614-9EE9-5183D5E7DA50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE202B2B-E4CA-4E02-A4B8-5690EB05A9DF}
+	EndGlobalSection
+EndGlobal
